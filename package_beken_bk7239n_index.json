@@ -16,8 +16,8 @@
           "category": "Beken",
           "url": "https://github.com/jhyuan705/BK7239N/releases/download/v0.1.0/arduino-beken-bk7239n-0.1.0.tar.gz",
           "archiveFileName": "arduino-beken-bk7239n-0.1.0.tar.gz",
-          "checksum": "SHA-256:366bdfa34e28a4c78821d0271405fe112da3d8ef4c4500f89be03a670a06f20e",
-          "size": "29076452",
+          "checksum": "SHA-256:502de3f44886ab29e2f3d1a6129a93a730b7a925448f836a30800fe87328289f",
+          "size": "29076421",
           "boards": [
             {
               "name": "BK7239N Generic"
@@ -51,28 +51,28 @@
               "host": "x86_64-linux-gnu",
               "url": "https://github.com/jhyuan705/BK7239N/releases/download/v0.1.0/arduino-beken-sdk-bk7239n-0.1.0.tar.gz",
               "archiveFileName": "arduino-beken-sdk-bk7239n-0.1.0.tar.gz",
-              "checksum": "SHA-256:1db7e0dd6d33749a3ba4a5c500b0c9114b7d1b5fd3e201b0397065bef597ee05",
+              "checksum": "SHA-256:0230bb9c08fdafecbb3ee9954c7ba1b16d4d49565828cb4a5fd11f91910256bc",
               "size": "68242547"
             },
             {
               "host": "x86_64-mingw32",
               "url": "https://github.com/jhyuan705/BK7239N/releases/download/v0.1.0/arduino-beken-sdk-bk7239n-0.1.0.tar.gz",
               "archiveFileName": "arduino-beken-sdk-bk7239n-0.1.0.tar.gz",
-              "checksum": "SHA-256:1db7e0dd6d33749a3ba4a5c500b0c9114b7d1b5fd3e201b0397065bef597ee05",
+              "checksum": "SHA-256:0230bb9c08fdafecbb3ee9954c7ba1b16d4d49565828cb4a5fd11f91910256bc",
               "size": "68242547"
             },
             {
               "host": "x86_64-apple-darwin",
               "url": "https://github.com/jhyuan705/BK7239N/releases/download/v0.1.0/arduino-beken-sdk-bk7239n-0.1.0.tar.gz",
               "archiveFileName": "arduino-beken-sdk-bk7239n-0.1.0.tar.gz",
-              "checksum": "SHA-256:1db7e0dd6d33749a3ba4a5c500b0c9114b7d1b5fd3e201b0397065bef597ee05",
+              "checksum": "SHA-256:0230bb9c08fdafecbb3ee9954c7ba1b16d4d49565828cb4a5fd11f91910256bc",
               "size": "68242547"
             },
             {
               "host": "arm64-apple-darwin",
               "url": "https://github.com/jhyuan705/BK7239N/releases/download/v0.1.0/arduino-beken-sdk-bk7239n-0.1.0.tar.gz",
               "archiveFileName": "arduino-beken-sdk-bk7239n-0.1.0.tar.gz",
-              "checksum": "SHA-256:1db7e0dd6d33749a3ba4a5c500b0c9114b7d1b5fd3e201b0397065bef597ee05",
+              "checksum": "SHA-256:0230bb9c08fdafecbb3ee9954c7ba1b16d4d49565828cb4a5fd11f91910256bc",
               "size": "68242547"
             }
           ]
@@ -119,7 +119,7 @@
               "host": "x86_64-linux-gnu",
               "url": "https://github.com/jhyuan705/BK7239N/releases/download/v0.1.0/bk-uploader-0.1.0-linux64.tar.gz",
               "archiveFileName": "bk-uploader-0.1.0-linux64.tar.gz",
-              "checksum": "SHA-256:d3cdc39007e4b95843680e19d37c841e904c454d8141b3dcee0079f8a842979c",
+              "checksum": "SHA-256:790b62868a506d8b328484801921f0a30a974320e6701cedf79e0bbb1631caed",
               "size": "12298765"
             },
             {
@@ -133,14 +133,14 @@
               "host": "arm64-apple-darwin",
               "url": "https://github.com/jhyuan705/BK7239N/releases/download/v0.1.0/bk-uploader-0.1.0-macosx-arm64.tar.gz",
               "archiveFileName": "bk-uploader-0.1.0-macosx-arm64.tar.gz",
-              "checksum": "SHA-256:9880060f53ce5b1085cc841ddc6e346a7647482aff85ed1842c1aaf36a9abd6c",
+              "checksum": "SHA-256:ad06f59230b2d70368810458428517f6b656eafea3300eb03c439f7f837b092",
               "size": "3482076"
             },
             {
               "host": "x86_64-apple-darwin",
               "url": "https://github.com/jhyuan705/BK7239N/releases/download/v0.1.0/bk-uploader-0.1.0-macosx-x64.tar.gz",
               "archiveFileName": "bk-uploader-0.1.0-macosx-x64.tar.gz",
-              "checksum": "SHA-256:b04fff6f2a750f6bb822848aed708cc2cc5e17e68fa1f9865616ceb232682132",
+              "checksum": "SHA-256:429295bc0ccf67760489a9d0a82271fcfc0de2ccc4cab8a74b2e70b1784dcf7a",
               "size": "3482058"
             }
           ]
